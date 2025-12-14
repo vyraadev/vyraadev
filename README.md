@@ -1,16 +1,48 @@
-## Hi there 👋
+## 👋 Hi, I’m Shristi (aka **vyraa**)
 
-<!--
-**vyraadev/vyraadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space — a place where I learn, build, break, and rebuild.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+I’m a curious learner and aspiring developer exploring the world of code, creativity, and problem-solving. I enjoy turning ideas into simple, functional projects and constantly improving my skills through hands-on learning.
+
+* 💻 Interested in development, tech, and digital creativity
+* ✨ Learning by building and experimenting
+* 📈 Focused on consistency over perfection
+
+---
+
+## 🧠 What I’m Currently Doing
+
+* Learning core programming concepts
+* Working on small projects and experiments
+* Building my GitHub as a personal growth archive
+
+---
+
+## 🛠️ Tech & Tools
+
+* Languages: Learning phase
+* Tools: Git, GitHub, VS Code
+* Exploring: Web development & automation
+
+---
+
+## 🌐 Find Me Online
+
+* GitHub: **@vyraadev**
+* Open to collaborations and learning together
+
+---
+
+## 📌 Philosophy
+
+> “Learn deeply. Build honestly. Grow quietly.”
+
+---
+
+⭐ If you’re here, feel free to explore — this is just the beginning.
+
+<
