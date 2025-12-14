@@ -33,6 +33,7 @@ I’m a curious learner and aspiring developer exploring the world of code, crea
 ## 🌐 Find Me Online
 
 * GitHub: **@vyraadev**
+* Instgram: **@only._.shristi_**
 * Open to collaborations and learning together
 
 ---
@@ -45,4 +46,3 @@ I’m a curious learner and aspiring developer exploring the world of code, crea
 
 ⭐ If you’re here, feel free to explore — this is just the beginning.
 
-<
